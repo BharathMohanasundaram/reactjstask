@@ -11,7 +11,7 @@ const Task1 = () => {
         <div class="card">
           {/* <img src={Img} className="imgclass"/> */}
             <img src={Img} class="imgclass" alt="..." />        
-            <h5 class="cardtitle">KANISHK R</h5>
+            <h5 class="cardtitle">BHARATH M</h5>
             <p class="card-text">
               KG COLLEGE OF ARTS AND SCIENCE , COIMBATORE
             </p>
